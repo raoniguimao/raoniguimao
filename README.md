@@ -1,4 +1,9 @@
-### Hi there 👋
+### Olá à todos
+
+Me chamo Raoni, sou desenvolvedor de softwares a mais de 15 anos. Já trabalhei com Delphi, Asp, .net, C#, Angular, PHP e Laravel. Agora continuo estudando React e Next.js.
+Busco aprimoramento em tecnologias para desenvolvimento de webapps.
+
+Se quiser me achar, estou no linkedIn: www.linkedin.com/in/raoni-alves-rocha
 
 <!--
 **raoniguimao/raoniguimao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
